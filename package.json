@@ -10,8 +10,11 @@
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "vite": "^3.0.0"
+<<<<<<< HEAD
     },
     "dependencies": {
         "tailwindcss": "^3.1.8"
+=======
+>>>>>>> cf30330687341e6f1352ef745dd9c07b983f5dd5
     }
 }

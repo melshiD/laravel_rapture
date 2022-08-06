@@ -6,6 +6,10 @@
     <div class="w-40 h-40 bg-red-400 relative left-0 transform skew-x-[25deg]"></div>
 </div>
 <!-- WHEN YOU SIT BACK DOWN, install Tailwindcss as a package and not a CDN, then build some 
+<<<<<<< HEAD
 custom animations  -->
 
 <!-- make a change  -->
+=======
+custom animations  -->
+>>>>>>> cf30330687341e6f1352ef745dd9c07b983f5dd5
